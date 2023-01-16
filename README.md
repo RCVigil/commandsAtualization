@@ -41,7 +41,8 @@
 
 ## Comando abaixo vai editar o arquivo /etc/update-manager/release-upgrades
 
-#### Faça uma cópia de segurança antes!
+<h4
+>Faça uma cópia de segurança antes</h4>
   
   > <p
   > >sudo apt-get install update-manager-core</p>
@@ -49,7 +50,7 @@
   <br
   />
 
-## Visualize o arquivo /etc/update-manager/release-upgrades, antes de editá-lo;
+## Visualize o arquivo /etc/update-manager/release-upgrades, antes de editá-lo
   
   > <p
   > >cat /etc/update-manager/release-upgrades</p>
@@ -61,7 +62,8 @@
   
 ## Comando abaixo vai atualizar seu prompt
 
-##### Normal
+<h5
+>Normal</h5>
   
   > <p
   > >sudo sed -i 's/Prompt=normal/Prompt=lts/g' /etc/update-manager/release-upgrades</p>
@@ -69,7 +71,8 @@
   <br
   />
 
-##### Never
+<h5
+>Never</h5>
   
   > <p
   > >sudo sed -i 's/Prompt=normal/Prompt=lts/g' /etc/update-manager/release-upgrades</p>
@@ -95,4 +98,8 @@
 
 </details>
 
-#
+<hr
+/>
+
+<br
+/>
