@@ -23,6 +23,14 @@
   <br
   />
 
+## Baixar e Atualizar os pacotes do sistema
+
+  > <p
+  > >sudo apt update && sudo apt full-upgrade --install-recommends</p>
+
+  <br
+  />
+
 ## Comando abaixo vai reinicializar sua máquina
   
   > <p
