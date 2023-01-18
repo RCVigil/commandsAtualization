@@ -104,10 +104,14 @@
   <br
   />
   
-  ## Reconfigurar o bash para o teclado
+## Reconfigurar o bash para o teclado
   
   > <p
-  > >setxkbmap -model pc104 -layout us_intl</p>
+  > >
+  
+  setxkbmap -model pc104 -layout us_intl
+  
+  </p>
 
   <br
   />
@@ -115,7 +119,9 @@
 ## Verificar a versão do Ubuntu
   
   > <p
-  > >lsb_release -a</p>
+  > >
+  
+  lsb_release -a</p>
 
   <br
   />
