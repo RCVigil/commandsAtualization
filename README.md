@@ -96,6 +96,22 @@
   <br
   />
 
+## Reconfigurar para ABNT2 o Teclado Americano 104 teclas
+  
+  > <p
+  > >setxkbmap -model abnt2 -layout br</p>
+
+  <br
+  />
+  
+  ## Reconfigurar o bash para o teclado
+  
+  > <p
+  > >setxkbmap -model pc104 -layout us_intl</p>
+
+  <br
+  />
+  
 ## Verificar a versão do Ubuntu
   
   > <p
