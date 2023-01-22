@@ -17,14 +17,7 @@
 
 ## Atualizar os pacotes do sistema
 
-  > <p
-  > >
-
-  <code class="lang-markdown">
-    sudo apt-get update && sudo apt-get dist-upgrade
-  </code>
-  
-  </p>
+<code class="lang-markdown">sudo apt-get update && sudo apt-get dist-upgrade</code>
 
 <br
 />
