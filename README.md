@@ -17,8 +17,7 @@
 
 ## Atualizar os pacotes do sistema
 
-<p
->sudo apt-get update && sudo apt-get dist-upgrade</p>
+```sudo apt-get update && sudo apt-get dist-upgrade```
 
 <br
 />
