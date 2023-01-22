@@ -17,11 +17,11 @@
 
 ## Atualizar os pacotes do sistema
 
-  > <p
-  > >sudo apt-get update && sudo apt-get dist-upgrade</p>
+<p
+>sudo apt-get update && sudo apt-get dist-upgrade</p>
 
-  <br
-  />
+<br
+/>
 
 ## Baixar e Atualizar os pacotes do sistema
 

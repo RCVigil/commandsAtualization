@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "svipas.prettier-plus",
+    "ofhumanbondage.react-proptypes-intellisense",
+    "syler.sass-indented",
+    "cweijan.vscode-mysql-client2",
+    "christian-kohler.path-intellisense",
+    "oderwat.indent-rainbow",
+    "kisstkondoros.vscode-gutter-preview",
+    "steoates.autoimport",
+    "dzhavat.bracket-pair-toggler",
+    "formulahendry.code-runner"
+  ]
+}
