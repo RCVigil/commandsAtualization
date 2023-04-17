@@ -17,15 +17,17 @@
 
 ## Atualizar os pacotes do sistema
 
-***```sudo apt-get update && sudo apt-get dist-upgrade```***
+    sudo apt-get update && sudo apt-get dist-upgrade
 
 <br
 />
 
 ## Baixar e Atualizar os pacotes do sistema
 
-> <p
-> >sudo apt update && sudo apt full-upgrade --install-recommends</p>
+<p
+  >Atualização Full</p>
+
+    sudo apt update && sudo apt full-upgrade --install-recommends
 
 <br
   />
