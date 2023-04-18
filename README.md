@@ -31,6 +31,22 @@
 
 <br
   />
+  
+  ## Atualizar o sistema de um pacote (Vscode)
+
+<p
+  >Simulando Atualização do vscode</p>
+
+    sudo dpkg -i
+    
+<p> 
+
+  Exemplo: sudo dpkg -i code_1.77.3-1681292746_amd64.deb o código foi baixado no diretorio especifico e dentro do diretorio coloquei o comando
+
+</p>
+
+<br
+  />
 
 ## Comando abaixo vai reinicializar sua máquina
 
