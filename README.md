@@ -32,7 +32,7 @@
 <br
   />
   
-  ## Atualizar o sistema de um pacote (Vscode)
+  ## Instalar ou Atualizar um pacote (Vscode ou qualquer outro)
 
 <p
   >Simulando Atualização do vscode</p>
