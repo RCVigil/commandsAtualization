@@ -150,3 +150,40 @@ lsb_release -a</p>
 
 <br
 />
+
+<details
+>
+  <summary
+  ><strong
+  >
+    Discos Bootaveis</strong></summary>
+
+<br
+  />
+
+## Baixar o pacote da Balena
+
+#### Etcher (oficialmente chamado balenaEtcher) é uma ferramenta que condensa todo o processo de gravação de imagens de disco em unidades USB ou SD externas em um único local.
+
+##### Salve onde achar mais apropriado
+
+    https://etcher.balena.io/#download-etcher
+
+<br
+/>
+
+## Deixe o arquivo executável
+
+#### Entre no diretório salvo e em seguido digite o comando abaixo
+
+    chmod +x balenaEtcher-1.18.11-x64.AppImage
+
+<br
+/>
+
+## Executar o balenaEtcher
+
+    ./balenaEtcher-1.18.11-x64.AppImage
+
+<br
+/>
