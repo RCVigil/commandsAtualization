@@ -161,6 +161,8 @@ lsb_release -a</p>
 <br
   />
 
+# Atenção este procedimento vai apagar e formatar o seu Pen Drive
+
 ## Baixar o pacote da Balena
 
 #### Etcher (oficialmente chamado balenaEtcher) é uma ferramenta que condensa todo o processo de gravação de imagens de disco em unidades USB ou SD externas em um único local.
@@ -184,6 +186,23 @@ lsb_release -a</p>
 ## Executar o balenaEtcher
 
     ./balenaEtcher-1.18.11-x64.AppImage
+
+<br
+/>
+
+
+## Após isso baixe a iso do sistema operacional que quer utilizar e siga os passos que o programa indica:
+
+#### 1. Selecionar a imagem iso baixada pelo:
+### Flash from file
+
+<br
+/>
+
+#### 2. Escolher o lacal que vai salvar (USB)
+## Este programa vai apagar tudo do pen driver ou qualquer outro local que você vai fazer. 
+
+#### 3. Vai inicializar o programa
 
 <br
 />
