@@ -15,6 +15,13 @@
 <br
   />
 
+## Atualizar os pacotes do sistema *** __Usar Este__ ***
+
+    sudo apt install ubuntu-restricted-extras
+
+<br
+/>
+
 ## Atualizar os pacotes do sistema
 
     sudo apt-get update && sudo apt-get dist-upgrade
